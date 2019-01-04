@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{3759E0EC-DEB3-44FC-8D32-D53853BEE5AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Assignment/Index.cshtml">
+    <Files>
+      <File FileName="Models/Assignment.cs" Line="15" Column="57" />
+      <File FileName="Models/Expense.cs" Line="13" Column="57" />
+      <File FileName="Views/Assignment/Index.cshtml" Line="45" Column="18" />
+      <File FileName="Views/Expense/Index.cshtml" Line="53" Column="29" />
+      <File FileName="Views/Expense/Details.cshtml" Line="19" Column="32" />
+      <File FileName="Views/Expense/Edit.cshtml" Line="43" Column="1" />
+      <File FileName="Views/Expense/Create.cshtml" Line="19" Column="19" />
+      <File FileName="Views/Expense/Delete.cshtml" Line="24" Column="56" />
+      <File FileName="Areas/Identity/Pages/Account/Login.cshtml" Line="15" Column="64" />
+      <File FileName="Areas/Identity/Pages/Account/Login.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="52" Column="10" />
+      <File FileName="wwwroot/css/site.css" Line="56" Column="2" />
+      <File FileName="Controllers/ExpenseController.cs" Line="60" Column="60" />
+      <File FileName="Controllers/HomeController.cs" Line="17" Column="57" />
+      <File FileName="Controllers/AssignmentController.cs" Line="23" Column="49" />
+      <File FileName="Views/Shared/_LoginPartial.cshtml" Line="23" Column="105" />
+      <File FileName="Views/Home/Privacy.cshtml" Line="9" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ModelSolution PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

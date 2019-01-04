@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task>
+    <Id>0</Id>
+    <Customer>Pictures Inc</Customer>
+    <StartDate>2019-01-04T21:59:12</StartDate>
+    <Days>3</Days>
+    <Address />
+    <Required>1</Required>
+    <Comment />
+    <Assigned>
+      <int>0</int>
+    </Assigned>
+    <Planned>true</Planned>
+  </Task>
+</ArrayOfTask>

@@ -1,0 +1,135 @@
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\bin\Debug\netcoreapp2.2\ModelSolution.deps.json
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\bin\Debug\netcoreapp2.2\ModelSolution.runtimeconfig.json
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\bin\Debug\netcoreapp2.2\ModelSolution.runtimeconfig.dev.json
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\bin\Debug\netcoreapp2.2\ModelSolution.dll
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\bin\Debug\netcoreapp2.2\ModelSolution.pdb
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\bin\Debug\netcoreapp2.2\ModelSolution.Views.dll
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\bin\Debug\netcoreapp2.2\ModelSolution.Views.pdb
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.csprojAssemblyReference.cache
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.csproj.CoreCompileInputs.cache
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.RazorAssemblyInfo.cache
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.RazorAssemblyInfo.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.AssemblyInfoInputs.cache
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.AssemblyInfo.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.TagHelpers.input.cache
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.TagHelpers.output.cache
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.RazorCoreGenerate.cache
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Assignment\Create.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Assignment\Delete.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Assignment\Details.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Assignment\Edit.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Assignment\Index.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Expense\Create.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Expense\Delete.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Expense\Details.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Expense\Edit.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Expense\Index.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.RazorTargetAssemblyInfo.cache
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.RazorTargetAssemblyInfo.cs
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.Views.pdb
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.dll
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.pdb
+C:\Users\thoma\iCloudDrive\Documents\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.csproj.CopyComplete
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\bin\Debug\netcoreapp2.2\ModelSolution.deps.json
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\bin\Debug\netcoreapp2.2\ModelSolution.runtimeconfig.json
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\bin\Debug\netcoreapp2.2\ModelSolution.runtimeconfig.dev.json
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\bin\Debug\netcoreapp2.2\ModelSolution.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\bin\Debug\netcoreapp2.2\ModelSolution.pdb
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\bin\Debug\netcoreapp2.2\ModelSolution.Views.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\bin\Debug\netcoreapp2.2\ModelSolution.Views.pdb
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.csprojAssemblyReference.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.RazorAssemblyInfo.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.RazorAssemblyInfo.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.AssemblyInfo.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.TagHelpers.input.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.TagHelpers.output.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.RazorCoreGenerate.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Assignment\Create.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Assignment\Delete.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Assignment\Details.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Assignment\Edit.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Assignment\Index.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Expense\Create.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Expense\Delete.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Expense\Details.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Expense\Edit.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Expense\Index.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.RazorTargetAssemblyInfo.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.RazorTargetAssemblyInfo.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.Views.pdb
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.pdb
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution\obj\Debug\netcoreapp2.2\ModelSolution.csproj.CopyComplete
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\bin\Debug\netcoreapp2.2\ModelSolution.deps.json
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\bin\Debug\netcoreapp2.2\ModelSolution.runtimeconfig.json
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\bin\Debug\netcoreapp2.2\ModelSolution.runtimeconfig.dev.json
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\bin\Debug\netcoreapp2.2\ModelSolution.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\bin\Debug\netcoreapp2.2\ModelSolution.pdb
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\bin\Debug\netcoreapp2.2\ModelSolution.Views.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\bin\Debug\netcoreapp2.2\ModelSolution.Views.pdb
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\ModelSolution.csprojAssemblyReference.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\ModelSolution.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\ModelSolution.RazorAssemblyInfo.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\ModelSolution.RazorAssemblyInfo.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\ModelSolution.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\ModelSolution.AssemblyInfo.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\ModelSolution.TagHelpers.input.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\ModelSolution.TagHelpers.output.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\ModelSolution.RazorCoreGenerate.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\Assignment\Create.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\Assignment\Delete.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\Assignment\Details.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\Assignment\Edit.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\Assignment\Index.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\Expense\Create.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\Expense\Delete.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\Expense\Details.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\Expense\Edit.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\Expense\Index.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\ModelSolution.RazorTargetAssemblyInfo.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\ModelSolution.RazorTargetAssemblyInfo.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\ModelSolution.Views.pdb
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\ModelSolution.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\ModelSolution.pdb
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (Web)\obj\Debug\netcoreapp2.2\ModelSolution.csproj.CopyComplete

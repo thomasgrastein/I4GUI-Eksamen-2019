@@ -1,0 +1,66 @@
+@model IEnumerable<ModelSolution.Models.Expense>
+
+@{
+    ViewData["Title"] = "Expenses";
+}
+
+<h2>Expenses for '@ViewData["AssignmentName"]'</h2>
+<table class="table sortByFirstCol">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Value)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            double count = 0;
+        }
+        @foreach (var item in Model)
+        {
+            count += item.Value;
+            <tr>
+                <td data-order="@item.Date.ToString("yyyy-MM-dd")">
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Value)$
+                </td>
+                <td align="right">
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+        @if (Model.Count() == 0)
+        {
+            <tr>
+                <td colspan="4">Add expenses by pressing the button below.</td>
+            </tr>
+        }
+        <tr class="table-primary">
+            <td data-order="99999"><b>Total</b></td>
+            <td></td>
+            <td><b>@count$</b></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+<p>
+    <a class="btn btn-primary btn-lg add" style="color:white;" asp-action="Create" asp-route-AssignmentId=@ViewData["AssignmentId"]>Add expense</a>
+</p>
+<div>
+    <a asp-action="Index" asp-controller="Assignment">Back to Assignments</a>
+</div>

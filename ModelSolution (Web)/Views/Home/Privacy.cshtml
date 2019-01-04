@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>You can delete your account or see what information we store about you</p>
+<a class="btn btn-primary btn-lg" id="Manage" asp-area="Identity" asp-page="/Account/Manage/PersonalData">Manage account</a>
+<p style="margin-top: 2rem;"><b>Known problems:</b></p>
+<p>Assignments/Expenses are not unique to each user as this was not a requirement.</p>
+<p>Expenses are of type int. Project did not understand globalization (commas etc.) after changing from sqlite to sql when moving from MacBook to Windows</p>

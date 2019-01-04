@@ -1,0 +1,76 @@
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\ModelSolution.exe.config
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\ModelSolution.exe
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\ModelSolution.pdb
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\AddModelDialog.g.cs
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\AddTaskDialog.g.cs
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\MainWindow.g.cs
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\ModelWindow.g.cs
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\App.g.cs
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\ModelSolution_MarkupCompile.cache
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\ModelSolution_MarkupCompile.lref
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\AddModelDialog.baml
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\AddTaskDialog.baml
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\MainWindow.baml
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\ModelWindow.baml
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\ModelSolution.g.resources
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\ModelSolution.Properties.Resources.resources
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\ModelSolution.csproj.GenerateResource.cache
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\ModelSolution.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\ModelSolution.csproj.CopyComplete
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\ModelSolution.exe
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\ModelSolution.pdb
+C:\Users\thoma\source\repos\ModelSolution\ModelSolution\obj\Debug\ModelSolution.csprojAssemblyReference.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\ModelSolution.exe.config
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\ModelSolution.exe
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\ModelSolution.pdb
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\ModelSolution.csprojAssemblyReference.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\AddModelDialog.g.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\AddTaskDialog.g.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\MainWindow.g.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\ModelWindow.g.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\App.g.cs
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\ModelSolution_MarkupCompile.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\ModelSolution_MarkupCompile.lref
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\AddModelDialog.baml
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\AddTaskDialog.baml
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\MainWindow.baml
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\ModelWindow.baml
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\ModelSolution.g.resources
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\ModelSolution.Properties.Resources.resources
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\ModelSolution.csproj.GenerateResource.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\ModelSolution.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\ModelSolution.csproj.CopyComplete
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\ModelSolution.exe
+C:\Users\thoma\Desktop\I4GUI aflevering\ModelSolution (WPF)\ModelSolution\obj\Debug\ModelSolution.pdb

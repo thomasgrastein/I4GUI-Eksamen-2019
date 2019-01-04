@@ -1,0 +1,27 @@
+﻿<Window x:Class="ModelSolution.AddTaskDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ModelSolution"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="AddTaskDialog" ResizeMode="NoResize" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterOwner">
+    <StackPanel>
+        <Label Content="Name" Margin="0,5" HorizontalAlignment="Center"/>
+        <xctk:WatermarkTextBox Name="Name" Watermark="E.g. Pictures Inc" Width="250" Margin="5,0"/>
+        <Label Content="Start date" Margin="0,5" HorizontalAlignment="Center"/>
+        <xctk:DateTimePicker Format="ShortDate" Name="StartDate"  Width="250" Margin="5,0"/>
+        <Label Content="Days (duration)" HorizontalAlignment="Center" />
+        <xctk:IntegerUpDown Minimum="0" Margin="5,0" Name="Days" HorizontalContentAlignment="Left" Watermark="E.g. 0 days" />
+        <Label Content="Address" Margin="0,5" HorizontalAlignment="Center"/>
+        <xctk:WatermarkTextBox Name="Address" Watermark="E.g. Anderson Street 123, 8000 Aarhus" Width="250" Margin="5,0"/>
+        <Label Content="Required for task" HorizontalAlignment="Center" />
+        <xctk:IntegerUpDown Minimum="0" Margin="5,0" Name="Required" HorizontalContentAlignment="Left" Watermark="E.g. 1" />
+        <Label Content="Comment" Margin="0,5" HorizontalAlignment="Center"/>
+        <xctk:MultiLineTextEditor Name="Comment" Margin="5,0,5,5"/>
+        <Label Content="Assigned models" Margin="0,5" HorizontalAlignment="Center"/>
+        <xctk:CheckComboBox Name="Assigned" DisplayMemberPath="Name" />
+        <Button Content="Add Task" Name="Add_Task" Margin="5" Click="Add_Task_Click"/>
+    </StackPanel>
+</Window>

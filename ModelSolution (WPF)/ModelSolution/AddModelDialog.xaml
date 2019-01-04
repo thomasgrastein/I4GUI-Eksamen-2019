@@ -1,0 +1,27 @@
+﻿<Window x:Class="ModelSolution.AddModelDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ModelSolution"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="AddModelDialog" ResizeMode="NoResize" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterOwner">
+    <StackPanel>
+        <Label Content="Name" Margin="0,5" HorizontalAlignment="Center"/>
+        <xctk:WatermarkTextBox Name="Name" Watermark="E.g. Anders Anderson" Width="250" Margin="5,0"/>
+        <Label Content="Phone" Margin="0,5" HorizontalAlignment="Center"/>
+        <xctk:WatermarkTextBox Name="Phone" Watermark="E.g. +45 00000000" Width="250" Margin="5,0"/>
+        <Label Content="Address" Margin="0,5" HorizontalAlignment="Center"/>
+        <xctk:WatermarkTextBox Name="Address" Watermark="E.g. Anderson Street 123, 8000 Aarhus" Width="250" Margin="5,0"/>
+        <Label Content="Height" Margin="0,5" HorizontalAlignment="Center"/>
+        <xctk:IntegerUpDown Name="Height" Width="250" Minimum="0" Watermark="E.g 180 cm" HorizontalContentAlignment="Left"/>
+        <Label Content="Weight" Margin="0,5" HorizontalAlignment="Center"/>
+        <xctk:IntegerUpDown Name="Weight" Width="250" Minimum="0" Watermark="E.g 80 kg" HorizontalContentAlignment="Left"/>
+        <Label Content="Hair color" Margin="0,5" HorizontalAlignment="Center"/>
+        <xctk:ColorPicker DisplayColorAndName="True" Name="HairColor" Margin="5,0"/>
+        <Label Content="Comment" Margin="0,5" HorizontalAlignment="Center"/>
+        <xctk:MultiLineTextEditor Name="Comment" Margin="5,0,5,5"/>
+        <Button Content="Add Model" Name="Add_Model" Margin="5" Click="Add_Model_Click"/>
+    </StackPanel>
+</Window>

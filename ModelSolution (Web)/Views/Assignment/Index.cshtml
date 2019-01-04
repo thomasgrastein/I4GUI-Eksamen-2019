@@ -1,0 +1,94 @@
+@model ViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Your upcoming assignments</h2>
+<table class="table" id="upcoming">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Assignment.Name)
+            </th>
+            <th width="15%">
+                @Html.DisplayNameFor(model => model.Assignment.Date)
+            </th>
+            <th width="25%"></th>
+            <th width="15%"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Upcoming)
+        {
+            <tr>
+                <td align="left">
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td align="left" data-order="@item.Date.ToString("yyyy-MM-dd")">
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td align="right">
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+                <td align="right">
+                    <a class="btn btn-primary" style="color: white;" asp-controller="Expense" asp-action="Index" asp-route-AssignmentId="@item.Id">Manage expenses</a>
+                </td>
+            </tr>
+        }
+        @if (Model.Upcoming.Count() == 0)
+        {
+            <tr>
+                <td colspan="4">Add assignments by pressing the button below.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h2 style="margin-top: 2rem;">Your previous assignments</h2>
+<table class="table" id="previous">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Assignment.Name)
+            </th>
+            <th width="15%">
+                @Html.DisplayNameFor(model => model.Assignment.Date)
+            </th>
+            <th width="25%"></th>
+            <th width="15%"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Previous)
+        {
+            <tr>
+                <td align="left">
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td align="left" data-order="@item.Date.ToString("yyyy-MM-dd")">
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td align="right">
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+                <td align="right">
+                    <a class="btn btn-primary" style="color: white;" asp-controller="Expense" asp-action="Index" asp-route-AssignmentId="@item.Id">Manage expenses</a>
+                </td>
+            </tr>
+        }
+        @if (Model.Previous.Count() == 0)
+        {
+            <tr>
+                <td colspan="4">Assignments will appear here once their specified date has passed.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<p>
+    <a class="btn btn-primary btn-lg add" style="color:white;" asp-action="Create">Add assignment</a>
+</p>
